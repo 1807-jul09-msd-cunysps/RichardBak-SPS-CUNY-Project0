@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Rev-CUNY/v15
+/EmployeeHelpApp/.vs/EmployeeHelpApp/v15
+/PersonContactApp/.vs/PersonContactApp/v15
